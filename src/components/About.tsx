@@ -22,7 +22,7 @@ export default function About() {
           {/* Content */}
           <div>
             <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              <img src="../public/anushruti-mountain.jpg" alt="Anushruti Singh in the mountains" style={{ maxWidth: "100%", height: "auto", borderRadius: "10px" }} />
+              <img src="/anushruti-mountain.jpg" alt="Anushruti Singh in the mountains" style={{ maxWidth: "100%", height: "auto", borderRadius: "10px" }} />
 
               About Me
             </h2>
