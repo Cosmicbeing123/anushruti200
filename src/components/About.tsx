@@ -21,7 +21,7 @@ export default function About() {
 
           {/* Content */}
           <div>
-             <img src={`${process.env.PUBLIC_URL}/anushruti-mountain.jpg`} alt="Anushruti Singh in the mountains" style={{ maxWidth: "100%", height: "auto", borderRadius: "10px" }} />
+            <img src={`${process.env.PUBLIC_URL}/public/anushruti-mountain.jpg`} alt="Anushruti Singh in the mountains" style={{ maxWidth: "100%", height: "auto", borderRadius: "10px" }} />
             <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
               About Me
             </h2>
